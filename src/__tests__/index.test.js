@@ -1,6 +1,6 @@
 import { render } from 'test-utils';
 
-import Home from './index';
+import Home from '../pages/index';
 import { GREETING_QUERY } from '../apollo/queries/greeting';
 
 const mocks = [
